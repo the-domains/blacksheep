@@ -2,6 +2,7 @@ name: BlackSheep
 favicon: null
 layout_spectrum: 0.14113
 typography_spectrum: 0.68832
+title: BlackSheep
 cta:
   domain: null
   bucket: null
